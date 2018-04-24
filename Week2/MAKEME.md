@@ -9,7 +9,6 @@
     • Relative measurements (%, (r)em, vw)
     • Media queries
     • Positioning (absolute, relative, fixed)
-    • Floating and clearing
     • Flexbox
  • How to work with the inspector
 ```
@@ -24,6 +23,7 @@
  - [Introduction to media queries (Reading)](https://www.sitepoint.com/creating-media-queries-for-responsive-web-designs/) or [Introduction to media queries (Video)](https://www.youtube.com/watch?v=fA1NW-T1QXc)
  - [More about media queries](https://css-tricks.com/css-media-queries/)
  - [HTML syntax](http://www.w3schools.com/html/html5_syntax.asp)
+ - [How CSS selectors work](https://css-tricks.com/how-css-selectors-work/)
  - [Article about multiple ways to select classes and id's](https://css-tricks.com/multiple-class-id-selectors)
  - [Read about nice color combinations](http://www.colorcombos.com/index.html)
  - [Introduction to FlexBox](https://www.youtube.com/watch?v=sewV3LsmoXI)
@@ -32,20 +32,16 @@
  - CodeAcedemy: [Learn Responsive Design](https://www.codecademy.com/learn/learn-responsive-design)
  - Refresh your knowledge of CSS Selectors: [With this fun game](https://flukeout.github.io/)
 
-### Super fun flexbox and grid practice 
- - [flexboxfroggy](https://flexboxfroggy.com/)
- - [cssgridgarden](http://cssgridgarden.com/)
+## Step 3: Super Fun Games
+ - [FlexBox Froggy](https://flexboxfroggy.com/)
+ - [CSS Diner](https://flukeout.github.io/)
 
-## Step 3: Assignment:
+## Step 4: Assignment:
 
  - Grids exercise
-    - Download the HTML and images in the folder Homework 2
+    - Download the HTML and images in the folder Homework 2 ([or click this link to download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SocialHackersCodeSchool/HTML-CSS/tree/master/Week2/Homework2))
     - You are going to write the CSS for this page
     - You are not allowed to change the HTML
-    - The page contains two grids: 
-      - The first one should work using floats, 
-      - The second using flex box. 
-      - Be careful not to mix the two!
     - We want the grid to look as follows (check the wireframe below):
       - On mobile phones: a two column grid, with the exception that the first item spans the full width
       - On tablets: a three column grid, with the exception that the first two items span the full width together (so first we have two columns, then after the first two items we have three columns)
@@ -60,8 +56,8 @@
 
 ```
 How to hand in your homework:
-• Upload your homework in your Github repository. 
-• Make sure to create a new folder "week2" first. 
+• Upload your homework in your Github repository.
+• Make sure to create a new folder "week2" first.
 • Your html-css/week2 should now contain an index.html and a main.css file (and the images folder)
 • Place the link to your repository in Trello.
 ```
@@ -72,7 +68,7 @@ How to hand in your homework:
     - An animation using CSS keyframes
     - SVG
 
-## Step 4: Prepare for next class
+## Step 5: Prepare for next class
 
 Go trough the reading material in the [README.md](/Week2/README.md) to prepare for your next class
 

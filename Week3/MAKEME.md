@@ -13,15 +13,6 @@
  • How to rebuild an existing responsive page (getting started with this week's homework exercise)
 ```
 
-### In class:
- - Task: find some info about a certain topic in groups of 2, present to each other
-   - Choose one of the following subjects, look up how it works and implement it in a web page
-      - CSS transitions
-      - CSS animations with keyframes
-      - SVG
-      - Drop down menu in CSS
-      - flex-box
-
 ## Step 1: Give feedback
 
 - In Trello you are added to one of the cards of your fellow students.
@@ -34,26 +25,32 @@
 
 ```
 Write commands to do following:
-1. create a directory. Enter a directory. Create an empty file named blank. 
-    2. Then write the content `"Hello"` five times to the file greetings.txt. 
-   Then copy the file greetings.txt and paste its contents into 1.txt, 2.txt, 3.txt, 4.txt and 5.txt.
-    3. Then write the text "cat" to pets.txt
-   Then append the text "dog" to pets.txt
-   Then append the text "hamster" to pets.txt
-    4. Then write the text "cat" to commands.txt
-   Then append the text "ls" to commands.txt
-   Then append the text "pwd" to commands.txt
-    5. Then find unique strings from these two files pets.txt and commands.txt
-   and store the unique strings in lovelyCommands.txt
+1.
+Create a folder. Enter a folder. Create an empty file named blank.
+2.
+Then write the content `"Hello"` five times to the file greetings.txt.
+Then copy the file greetings.txt and paste its contents into 1.txt, 2.txt, 3.txt, 4.txt and 5.txt.
+3.
+Then write the text "cat" to pets.txt
+Then append the text "dog" to pets.txt
+Then append the text "hamster" to pets.txt
+4.
+Then write the text "cat" to commands.txt
+Then append the text "ls" to commands.txt
+Then append the text "pwd" to commands.txt
+5.
+Then find unique words from these two files pets.txt and commands.txt and store the unique words in lovelyCommands.txt
 ```
 
 
 ## Step 3: Assignment
 
-> Use the command line to create a directory "week3" inside your "sha-html-css" directory. There should already be a "week1" and "week2" inside that contains your homework of the last weeks. 
+The final part of this homework is to practice HTML and CSS by making a website. You don't have to complete it, just give it your best shot!
 
- - Remake an existing responsive website: choose one of the following
+ - Remake an existing responsive website: this one is good website to try with lots of different elements.
    - https://www.rijksoverheid.nl
+   
+ - If you want something a little harder you could try one of these
    - http://www.awwwards.com
    - https://www.bostonglobe.com
    - https://www.thinkwithgoogle.com
@@ -66,12 +63,12 @@ Write commands to do following:
 
 ```
 How to hand in your homework:
-• Upload your homework in your Github repository. 
-• Make sure to create a new folder "week3" first. 
+• Upload your homework in your Github repository.
+• Make sure to create a new folder "week3" first.
 • Your sha-html-css/week3 should now contain an index.html and a main.css file (and the images folder)
 • Place the link to your repository in Trello.
 ```
 
-## Step 3: Prepare for next class
+## Step 4: Prepare for next class
 
-Go trough the reading material in the JavaScript [README.md](/JavaScript/Week0/README.md) to prepare for your next class
+Go trough the reading material in the JavaScript [README.md](https://github.com/SocialHackersCodeSchool/JavaScript/blob/master/Week0/README.md) to prepare for your next class
